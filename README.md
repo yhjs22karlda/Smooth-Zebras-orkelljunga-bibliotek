@@ -16,4 +16,4 @@ Länk till Trello: https://trello.com/b/plFbP9F3/%C3%B6rkelljunga-bibliotek
 - Funktionalitet enligt förutsättningar
 - Koden är reviewad och godkänd av en senior utvecklare
 - Koden uppfyller alla krav på clean code
-. Koden är hanterad i VCS (git)
+- Koden är hanterad i VCS (git)

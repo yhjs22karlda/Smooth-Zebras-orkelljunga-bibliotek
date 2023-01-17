@@ -13,3 +13,6 @@ Länk till Trello: https://trello.com/b/plFbP9F3/%C3%B6rkelljunga-bibliotek
 - Användare ska kunna se lånade böcker och eventuella påminnelser
 - Som admin vill jag ha tillgång till ett fungerande system som hjälper mig hantera användaren och kundens behov
 ## Definition av klar
+- Funktionalitet enligt förutsättningar
+- Koden är reviewad och godkänd av en senior utvecklare
+- Koden uppfyller alla krav på clean code

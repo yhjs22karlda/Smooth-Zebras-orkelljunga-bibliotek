@@ -6,9 +6,9 @@ Av: Robert, Nebil, Joakim, Marcus, Daniel
 Länk till Trello: https://trello.com/b/plFbP9F3/%C3%B6rkelljunga-bibliotek
 ## Sprintmål
 - En första version ska vara så en så kallad M.V.P med en lättöverskådlig första sida
+- Användare ska kunna skapa ett användarkonto
 - Man ska kunna logga in som kund och användare
 - Som admin ska man kunna hantera användare och kunna lägga till/ta bort böcker
 - Användare ska kunna söka efter böcker i databasen och visa resultatet
-- Användare ska kunna skapa ett användarkonto
 - Användare ska kunna se lånade böcker och eventuella påminnelser
 ## Definition av klar

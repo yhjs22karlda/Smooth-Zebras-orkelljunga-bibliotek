@@ -11,4 +11,5 @@ Länk till Trello: https://trello.com/b/plFbP9F3/%C3%B6rkelljunga-bibliotek
 - Som admin ska man kunna hantera användare och kunna lägga till/ta bort böcker
 - Användare ska kunna söka efter böcker i databasen och visa resultatet
 - Användare ska kunna se lånade böcker och eventuella påminnelser
+- Som admin vill jag ha tillgång till ett fungerande system som hjälper mig hantera användaren och kundens behov
 ## Definition av klar
